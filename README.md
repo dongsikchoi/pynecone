@@ -12,7 +12,7 @@
 
 ![0119_4](https://user-images.githubusercontent.com/52738769/213298613-45fddbd5-68d6-40b1-8324-14bb75eaf712.png)
 
-ㅎ.ㅎ;; 
+ㅎ.ㅎ;; **원하는** 사진을 넣도록 하십쇼 
 
 - testapp 
 <초기 화면>
