@@ -30,4 +30,5 @@
 
 
 <**(클릭)** 구현 영상>
-![Pynecone App (1)](https://user-images.githubusercontent.com/52738769/213301330-6bdc9ef7-1fa9-47c6-9b28-d0bafcbf3fce.gif)
+![Pynecone App (2)](https://user-images.githubusercontent.com/52738769/213309780-221ef79e-ae23-44bc-9bb9-cc093fc61c51.gif)
+
