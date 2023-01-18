@@ -7,8 +7,9 @@
   - pynecone ( pip install pynecone-io -> pc init -> pc run ) 
 
 ## 1. 폴더에 있는 움짤, 사진을 구분해서 랜덤하게 보여줌 
+(Click each button to display GIFs and photos in the directory randomly.)
 
-- 사진 경로 : pynecone\testapp\assets 
+- 사진 경로 (photo path) : pynecone\testapp\assets 
 
 ![0119_4](https://user-images.githubusercontent.com/52738769/213298613-45fddbd5-68d6-40b1-8324-14bb75eaf712.png)
 
